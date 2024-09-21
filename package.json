@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.0.1"
   }
 }
